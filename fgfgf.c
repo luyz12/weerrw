@@ -1,5 +1,5 @@
 void mainc()
 {
     int a = 10;
-    int b = 1000;
+    int b = 0;
 }
